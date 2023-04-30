@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#link - https://sanjivsinha1.github.io/Youtube_Lite/
+## Link : https://sanjivsinha1-youtube-lite.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
